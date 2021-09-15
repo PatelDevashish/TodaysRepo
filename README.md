@@ -1,1 +1,1 @@
-# This is my todays new Git repo. Ihad done it very perfectly.
+# This is my todays new Git repo. I had done it very perfectly.
